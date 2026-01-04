@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Divyansh Singh (DivanX)</h1>
+<h1>👋 Hi, I’m Divyansh Singh</h1>
 
 <hr>
 
