@@ -219,7 +219,7 @@ Team Collaboration • Communication • Content Structuring & Documentation
 <p>
 📧 Email: <a href="mailto:divyanshsinghnitj24@gmail.com">divyanshsinghnitj24@gmail.com</a><br>
 💼 LinkedIn: <a href="https://www.linkedin.com/in/divyansh-singh-nitj" target="_blank">linkedin.com/in/divyansh-singh-nitj</a><br>
-🌐 Portfolio: <i>(add link)</i>
+🌐 Portfolio: <a href="https://divyanshsingh-omega.vercel.app" target="_blank">divyanshsingh-omega.vercel.app</a><br>
 </p>
 
 <hr>
